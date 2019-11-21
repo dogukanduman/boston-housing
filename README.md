@@ -1,3 +1,6 @@
+
+Report is [here](./boston_housing.ipynb).
+
 # Content: Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
