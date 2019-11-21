@@ -1,5 +1,5 @@
 
-Report is [here](./boston_housing.ipynb). If you can not view, you can download project and check the  [report.html](./report.html)
+Report is [here](./boston_housing.ipynb). If you can not view report, you can download project and check the report.html with a browser.
 
 # Content: Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
